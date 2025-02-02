@@ -1,0 +1,28 @@
+//Node.js Basics:
+//Introductio to Node.js
+//Installing Node.js and npm
+// Working with modules
+// File system operations
+// understanding HTTP module
+
+//js se backend nhn ban skta kyuki js ke pass wo functionalities nhn hai jisnse backend bnta hai
+
+// hum js ka code likhenge jo ki wrapper layer of js receive karegi and vo code v8 engine ke c++ modules ke saath ek server create krega--Node.js
+//Node.js is js runtime environment aur isse hum server create krnge
+
+//Node & npm
+// Working with node and npm
+//npm init -y
+//node basic usage
+
+//npm init -> package.json
+
+
+
+//Talk about http and https
+
+//http:-->
+//Protocol - rules
+//Internet pr kuch bhi karne ke liye rules banaaya gaya hai unke dwaara jinhone internet banaaya hai ab un rules ko followe karna jaruri hai aur ye rules follow ho isliye ye rules aap ke operating system ke software mein preinstalled aate hai
+
+//http : yhi protocol hai ya rule hai jisko followe kare bina aap internet pe na hi kuch bhej skte ho naa hi kuch mnga skte ho

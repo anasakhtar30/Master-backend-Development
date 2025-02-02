@@ -1,0 +1,30 @@
+
+NPM Understanding
+
+npm - node package manager
+npm- nahi pata mujhe
+naan and paneer makhni
+
+// installing and uninstalling anything basics and advanced
+// install ->npm i packageName
+// installing particular versions
+
+// Understanding Modules
+Node js core mein jo install hoke aata hai wo kehlata hai node_modules npm se download h ota hai to wo PACKAGE
+
+npm - node package manager
+
+//NOTE: jb bhi aap kisi chiz ko install krte hai to that becomes dependency
+
+
+dependencies -- package and packages ki dependencies
+
+devdependencies ---> aisa package jo development me kaam aayega par jab aap app bna jayega r upload ho jayega tb hm in package ko use nhn kr rhe honge
+
+
+
+kai baar ap koi script chalaate ho and us scrip me aap likhte ye cmd --> npm start
+--npm run dev
+--npm run concurrent
+
+start and test are two script
